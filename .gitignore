@@ -1,0 +1,6 @@
+/bin
+/out
+/target
+/.idea
+/nbproject
+*.class
